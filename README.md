@@ -23,7 +23,6 @@ Astryrean serves as a tool for educational purposes, allowing users to understan
 
 - **Anti-Debugging**: Protects against reverse engineering.
 - **Anti-VM**: Detects and avoids virtual machine environments.
-- **Browser Cookie Extraction**: Captures cookies from popular browsers.
 - **Stealer Builder**: Create custom stealers tailored to your needs.
 - **Discord Token Logger**: Collects Discord tokens for educational analysis.
 - **FUD (Fully Undetectable)**: Ensures that the tool remains undetected by security software.
@@ -54,7 +53,6 @@ Astryrean touches on various topics relevant to cybersecurity and data extractio
 
 - **Anti-Debug Techniques**: Learn how to implement methods that prevent debugging.
 - **Virtual Machine Detection**: Understand how to identify and avoid running in virtual environments.
-- **Browser Cookie Management**: Explore how cookies are managed and how to extract them.
 - **Stealer Creation**: Build your own stealer with customizable options.
 - **Discord Security**: Gain insights into Discord's token management and security features.
 - **Fully Undetectable Tools**: Discover strategies to keep your tools undetected by antivirus software.
